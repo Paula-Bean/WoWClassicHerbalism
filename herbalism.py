@@ -1,4 +1,8 @@
 
+
+herbalist_skill_level = 226 # Train at herbalism skill levels ..., 225
+
+
 info = """
 1 25 50 100
 Peacebloom
@@ -112,8 +116,6 @@ Found on hills or near cliffs: Winterspring
 Black Lotus
 Found in open terrain: Burning Steppes, Eastern Plaguelands, Silithus, Winterspring
 """
-
-herbalist_skill_level = 226 # Train at herbalism skill levels ..., 225
 
 herbs = {} # Mapping of herb name => (orange, yellow, green, gray skill level, where)
 
